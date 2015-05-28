@@ -8,6 +8,7 @@ the staging area doesnt actually make commits so it is a less risky environment.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+stage all the files affected by your one logical change and then commit the files.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
