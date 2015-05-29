@@ -18,8 +18,12 @@ when you want to expiriment with new design concepts. when you want to create di
 
 How do the diagrams help you visualize the branch structure?
 
+They show you at which point your commits began to diverge from eachother. 
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+it basically performs the or operation for lines of code in the 2 files. It is represented the way it is because the new head has 2 parent commits.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
