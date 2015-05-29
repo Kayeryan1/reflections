@@ -27,3 +27,5 @@ it basically performs the or operation for lines of code in the 2 files. It is r
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+automatic merging will likely save a lot of time.
